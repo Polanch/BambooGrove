@@ -1,0 +1,105 @@
+{
+  "carousel": [
+    {
+      "nameJa": "竹の蓋付きラーメン丼",
+      "name": "Ramen Bowl with Bamboo Cover",
+      "description": "Elevate your ramen experience with our artisan ceramic bowl featuring a natural bamboo cover. Combining traditional Japanese aesthetics with practical design, this set keeps your noodles warm while adding an authentic touch to every meal.",
+      "price": 1299,
+      "image": "resources/images/products/product-1.png",
+      "alt": "Ramen bowl with bamboo cover",
+      "layout": "left"
+    },
+    {
+      "nameJa": "手作り和風籠",
+      "name": "Handcrafted Japanese Basket",
+      "description": "This beautifully handcrafted Japanese basket is perfect for storing and displaying your favorite items. Made with traditional techniques, it adds a touch of elegance and authenticity to any space.",
+      "price": 899,
+      "image": "resources/images/products/product-2.png",
+      "alt": "Handcrafted Japanese basket",
+      "layout": "right"
+    },
+    {
+      "nameJa": "和風ランプ",
+      "name": "Japanese Style Light Lamp",
+      "description": "Illuminate your space with our elegant Japanese-style lamp. Crafted with attention to detail, it brings a warm and inviting ambiance to any room, blending traditional aesthetics with modern functionality.",
+      "price": 1799,
+      "image": "resources/images/products/product-3.png",
+      "alt": "Japanese style light lamp",
+      "layout": "left"
+    }
+  ],
+  "shopItems": [
+    {
+      "name": "Japanese Ramen Bowl",
+      "nameJa": "竹の蓋付きラーメン丼",
+      "brand": "Bamboo Grove",
+      "description": "A ceramic ramen bowl with a natural bamboo cover that helps keep meals warm and elegant.",
+      "price": 1399,
+      "image": "resources/images/products/product-4.png",
+      "alt": "Ramen bowl with bamboo cover"
+    },
+    {
+      "name": "Tokyo-Style Handwoven Basket",
+      "nameJa": "手作り和風籠",
+      "brand": "Bamboo Grove",
+      "description": "A handcrafted basket designed for storage and display with a traditional Japanese look.",
+      "price": 999,
+      "image": "resources/images/products/product-5.png",
+      "alt": "Handcrafted Japanese basket"
+    },
+    {
+      "name": "Outdoor Bamboo Lanterns",
+      "nameJa": "和風ランプ",
+      "brand": "Bamboo Grove",
+      "description": "A warm bamboo lamp that adds a calm glow and natural texture to any room.",
+      "price": 329,
+      "image": "resources/images/products/product-6.png",
+      "alt": "Japanese style light lamp"
+    },
+    {
+      "name": "Bamboo Storage Tray",
+      "nameJa": "竹製収納トレー",
+      "brand": "Bamboo Grove",
+      "description": "A clean, versatile tray for serving, organizing, or styling your space with natural charm.",
+      "price": 649,
+      "image": "resources/images/products/product-7.png",
+      "alt": "Bamboo storage tray"
+    },
+    {
+      "name": "Kyoto-Bento Box",
+      "nameJa": "京都弁当箱",
+      "brand": "Bamboo Grove",
+      "description": "A traditional Kyoto-style bento box, perfect for packing and enjoying meals with elegance.",
+      "price": 749,
+      "image": "resources/images/products/product-8.png",
+      "alt": "Kyoto bento box"
+    },
+    {
+      "name": "Wooden Chopsticks with Rice Paddle",
+      "nameJa": "木製箸としゃもじ",
+      "brand": "Bamboo Grove",
+      "description": "A set of wooden chopsticks and a rice paddle, perfect for enjoying traditional Japanese meals.",
+      "price": 399,
+      "image": "resources/images/products/product-9.png",
+      "alt": "Wooden chopsticks with rice paddle"
+    },
+    {
+      "name": "Panda Eating Bamboo",
+      "nameJa": "パンダが竹を食べる",
+      "brand": "Bamboo Grove",
+      "description": "A cute real life panda enjoying a bamboo snack, perfect for adding an animal that could kill you anytime",
+      "price": 10000,
+      "image": "resources/images/products/product-10.png",
+      "alt": "Panda eating bamboo"
+    },
+    {
+      "name": "Kendo Shinai Bamboo Practice Sword Katana",
+      "nameJa": "剣道竹刀練習用刀",
+      "brand": "Bamboo Grove",
+      "description": "A traditional Kendo shinai bamboo practice sword, perfect for martial arts training and practice.",
+      "price": 2400,
+      "image": "resources/images/products/product-11.png",
+      "alt": "Kendo shinai bamboo practice sword"
+    }
+  ]
+}

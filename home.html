@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bamboo Grove</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="top-section">
+        <div class="top-container">
+            <div class="top-box">
+                <img src="resources/images/logo.png" id="logo">
+            </div>
+            <div class="top-box">
+                <h1 id="company-name">Bamboo Grove</h1>
+                <p id="company-tagline">AUTHENTIC JAPANESE&nbsp;<span id="emhasis">BAMBOO</span>&nbsp;PRODUCTS</p>
+            </div>
+            <div class="top-box">
+                <div class="moving-tagline">
+                    <img src="resources/images/panda.gif" id="panda">
+                    <span>
+                        <h2>すべて本物の竹を使い、嵐山地区から直接仕入れています。</h2>
+                        <p>Everything is made with real bamboos straight from Arashiyama district</p>
+                    </span>
+                </div>     
+            </div>
+            <div class="top-box">
+                <button id="cart-button">
+                    <img src="resources/images/cart3.png" id="cart">
+                    <span class="cart-badge" id="cart-badge">0</span>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <section class="middle-section">
+        <div class="main-container">
+            <ul id="carousel" aria-live="polite"></ul>
+            <div class="carousel-previous">
+                <button><img src="resources/images/previous.png" id="previous"></button>
+            </div>
+            <div class="carousel-next">
+                <button><img src="resources/images/next.png" id="next"></button>
+            </div>
+        </div>
+    </section>
+    
+    <section class="shop-section">
+        <div class="shop-shell">
+            <div class="shop-heading">
+                <p class="shop-kicker">Featured Products</p>
+                <h2>Shop Collection</h2>
+            </div>
+            <div id="shop-grid" class="shop-grid" aria-live="polite"></div>
+        </div>
+    </section>
+
+    <section class="cart-section" id="cart-section" aria-label="Shopping Cart">
+        <div class="cart-header">
+            <h2>Shopping Cart</h2>
+            <button class="cart-close" id="cart-close" aria-label="Close cart">✕</button>
+        </div>
+        <div class="cart-content">
+            <div id="cart-items" class="cart-items"></div>
+            <div class="cart-empty" id="cart-empty">
+                <p>Your cart is empty</p>
+            </div>
+        </div>
+        <div class="cart-footer">
+            <div class="cart-total">
+                <span>Total:</span>
+                <span id="cart-total-price" class="total-price"><span class="currency-symbol">₱</span>0.00</span>
+            </div>
+            <button class="cart-checkout" id="cart-checkout">Proceed to Checkout</button>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+<footer>&copy; Copyright 2026 FED Basic Assessment</footer>
+</html>
